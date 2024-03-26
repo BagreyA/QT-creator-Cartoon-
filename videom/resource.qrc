@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="title">fonts/title.otf</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file alias="titleImg">image/loadTitle.png</file>
+        <file alias="back1">image/backClear.png</file>
+        <file alias="back3">image/backthree.png</file>
+        <file alias="back2">image/backTwo.png</file>
+        <file alias="back8">image/back8.png</file>
+        <file alias="back7">image/back7.png</file>
+        <file alias="back6">image/back6.png</file>
+        <file alias="back5">image/back5.png</file>
+        <file alias="back4">image/back4.png</file>
+        <file alias="car1">image/car1r.png</file>
+        <file alias="car2">image/car3r.png</file>
+        <file alias="car4">image/car4r.png</file>
+        <file alias="car5">image/car5r.png</file>
+        <file alias="car6">image/car6r.png</file>
+        <file alias="car3">image/carr.png</file>
+        <file alias="hellcopter">image/hellicopter.png</file>
+        <file alias="people">image/Man-PNG-Clipart.png</file>
+        <file alias="person2">image/p2.png</file>
+        <file alias="brickMeme">image/brick.png</file>
+        <file alias="warrier">image/warrierr.png</file>
+        <file alias="jump">image/car.png</file>
+        <file alias="person1">image/p2r.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="icon">icons/icons.jpeg</file>
+    </qresource>
+</RCC>
